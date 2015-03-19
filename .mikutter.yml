@@ -1,0 +1,9 @@
+---
+slug: :antisidounsan
+depends:
+  mikutter: 3.2.2
+  plugin: []
+version: '1.0'
+author: 
+name: antisidounsan
+description: しどうんが「～では」とツイートするととりあえず否定します。
